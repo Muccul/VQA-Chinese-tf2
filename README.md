@@ -13,7 +13,7 @@ The training dataset is downloaded at: https://pan.baidu.com/s/1I9RANoJxq-G1h7nF
 The weights  are downloaded at: https://pan.baidu.com/s/15O8vtS8bqY2NtXwGThAi0w 提取码：u97v
 
 ## Training
-#### Prepare dataset(download training dataset,the put coco2014 dataset in the file named Data, FM-CH-QA in this folder)
+#### Prepare dataset(download training dataset,put coco2014 in the file named Data and FM-CH-QA in this folder)
 `python extract_vgg_features.py   # Generate picture features` 
 #### Train
 `python train.py`
